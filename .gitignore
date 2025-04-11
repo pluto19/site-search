@@ -1,0 +1,15 @@
+# 打包文件
+*.zip
+
+# 临时目录
+tmp_extension/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Zone.Identifier文件
+*:Zone.Identifier
+
+# node modules（如果将来添加）
+node_modules/
